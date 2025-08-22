@@ -1,6 +1,6 @@
 # Command-Line Chess
 
-A fully-featured **terminal-based chess game** implemented in Python. Play against another human, track move history, save/load games as PGN, and enjoy a dynamic clock—all in your terminal.
+A fully-featured two-player **terminal-based chess game** implemented in Python. Play against another human, track move history, save/load games as PGN, and enjoy a dynamic clock—all in your terminal.
 
 ## Features
 
